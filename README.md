@@ -21,7 +21,7 @@ Ensure you have Go installed on your machine.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/GoDo.git](https://github.com/your-username/GoDo.git)
+git clone https://github.com/tjozsa/GoDo)](https://github.com/tjozsa/GoDo
 
 # Navigate to the directory
 cd GoDo
